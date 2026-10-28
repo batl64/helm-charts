@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   lab-argo:
   - apiVersion: v2
+    appVersion: 1.0.9
+    created: "2026-10-28T22:52:08.461402886Z"
+    description: A Helm chart for Kubernetes
+    digest: a5109545f9f5c37322f63b462b2022f2c3762299c889cd24d26fadc424f5c228
+    name: lab-argo
+    type: application
+    urls:
+    - https://github.com/batl64/helm-charts/releases/download/lab-argo-1.0.9/lab-argo-1.0.9.tgz
+    version: 1.0.9
+  - apiVersion: v2
     appVersion: 1.0.8
     created: "2026-10-28T22:48:34.730259908Z"
     description: A Helm chart for Kubernetes
@@ -41,4 +51,4 @@ entries:
     urls:
     - https://github.com/batl64/helm-charts/releases/download/lab-argo-0.1.0/lab-argo-0.1.0.tgz
     version: 0.1.0
-generated: "2026-10-28T22:48:34.730275091Z"
+generated: "2026-10-28T22:52:08.461420462Z"
